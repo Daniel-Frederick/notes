@@ -1,0 +1,12 @@
+site_name: Daniel Frederick Notes
+site_url: https://dansite.com
+theme:
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  icon:
+    logo: fontawesome/solid/d
+  #favicon: assets/example.ico
+  palette:
+    scheme: slate
